@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Deprecated: no longer maintained.** Last updated in April 2026; kept for reference.
+
 # DeskCaptain
 
 AI receptionist software for small businesses. It captures and qualifies leads from web chat and phone calls, takes bookings, and gives each organisation a dashboard for leads, conversations, bookings and billing.
